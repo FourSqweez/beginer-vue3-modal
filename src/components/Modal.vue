@@ -5,6 +5,7 @@
       <div class="actions">
         <slot name="links"></slot>
       </div>
+      <slot name="test"></slot>
     </div>
   </div>
 </template>
